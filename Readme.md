@@ -15,5 +15,11 @@
 ### Waffle Chart
 
 
+## Deep Learning
+
+1. Digit Recognizer Kaggle compitition on MNIST dataset
+	* CNN, Keras, Tensorflow
+	![rank](rank.png)
+
 
 
