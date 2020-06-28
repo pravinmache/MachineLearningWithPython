@@ -1,6 +1,6 @@
 # Content based recommender system
 
-Content based recommnder system works based on the genre of the movie and rating provided by user the for movies.
+Content based recommnder system works based on the genre of the movie and rating provided by the user for movies.
 
 Suppose user has rated movies as following
 
