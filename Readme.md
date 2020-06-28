@@ -15,16 +15,22 @@ https://www.kaggle.com/jessemostipak/hotel-booking-demand
 * DBScan
 * Agglomerative Clustering
 
+![png](kmeans.PNG)
+
 ## Recommnder System
 * Content Based Recommender System
 
 ## Data visualization
 
 * Waffle Chart
+
 ![png](waffle.PNG)
 
+* Word Cloud on Shakespears's McBeth Novel
+![png](wc.PNG)
+
 ## Natual Language Processing
-1. IMDB movie review - Sentiment Analysis with Bag of word model
+1. IMDB movie review - Sentiment Analysis with Bag of word model 87% accuracy
 ![png](bow.PNG)
 
 
