@@ -24,10 +24,10 @@ https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
 * Waffle Chart
 
-![png](waffle.PNG)
+![png](waffle.png)
 
 * Word Cloud on Shakespears's McBeth Novel
-![png](wc.PNG)
+![png](wc.png)
 
 ## Natual Language Processing
 1. IMDB movie review - Sentiment Analysis with Bag of word model 87% accuracy
