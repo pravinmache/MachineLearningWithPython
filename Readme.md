@@ -19,7 +19,9 @@
 
 1. Digit Recognizer Kaggle compitition on MNIST dataset
 	* CNN, Keras, Tensorflow
-![png](rank.png)
+	
+	
+![png](rank.PNG)
 
 
 
